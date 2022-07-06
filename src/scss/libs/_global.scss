@@ -1,0 +1,16 @@
+body {
+    color: $color-text;
+    @extend %sfpro-400;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.container {
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+
+
+
